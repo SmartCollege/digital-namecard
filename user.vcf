@@ -9,6 +9,6 @@ EMAIL;type=INTERNET;type=WORK;type=pref:Gregg@EmeraldCollegePlanning.com
 TEL;type=WORK;type=VOICE:336-471-3727
 item1.ADR;type=WORK;type=pref:;;2609 Glasshouse Rd\Ste 317\nJamestown\NC 27282
 item1.X-ABADR:sg
-item2.URL;type=pref:EmerladCollegePlanning.com
+item2.URL;type=pref:www.EmeraldCollegePlanning.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
