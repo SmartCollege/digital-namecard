@@ -38,10 +38,8 @@ img {
 }
 
 img.profile-pic {
-	width: 70%;
-	max-width: 340px;
+	width: 100%;
 	height: auto;
-	box-shadow: 0 6px 20px rgba(0, 0, 0, 0.18);
 }
 
 img.icon {
@@ -106,7 +104,8 @@ img.company-logo {
 }
 
 .banner {
-	padding: 3rem 1.5rem;
+	padding: 0;
+	line-height: 0;
 }
 
 .primary-info {
