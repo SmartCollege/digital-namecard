@@ -2,13 +2,13 @@ BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Schlaudecker;Gregg;;;
-FN: Gregg Schlaudecker 
-ORG:Emerald College Planning, LLC;
-TITLE:Chief Creative\nPlanning Team
-EMAIL;type=INTERNET;type=WORK;type=pref:Gregg@EmeraldCollegePlanning.com
-TEL;type=WORK;type=VOICE:336-471-3727
-item1.ADR;type=WORK;type=pref:;;2609 Glasshouse Rd\, Ste 317\nJamestown\, NC 27282
+FN: Gregg Schlaudecker
+ORG:AdaptFirst - Tax and Investments;
+TITLE:Chartered Financial Consultant\, CLU ChFC
+EMAIL;type=INTERNET;type=WORK;type=pref:gregg@adaptfirst.com
+TEL;type=WORK;type=VOICE:336-759-0300 ext. 2000
+item1.ADR;type=WORK;type=pref:;;109-A East Mountain St\nKernersville\, NC 27284
 item1.X-ABADR:sg
-item2.URL;type=pref:www.EmeraldCollegePlanning.com
+item2.URL;type=pref:www.adaptfirst.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD

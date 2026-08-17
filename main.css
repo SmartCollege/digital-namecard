@@ -33,8 +33,9 @@ img {
 }
 
 img.profile-pic {
-	height: 30%;
 	width: 30%;
+	height: auto;
+	aspect-ratio: 1 / 1;
 	object-fit: cover;
 	border-radius: 50%;
 }
@@ -168,9 +169,11 @@ img.profile-pic {
 }
 
 .button {
-	background-color: #219653;
+	display: block;
+	background-color: #4f9d4d;
 	height: 48px;
-	padding-left: 24px
+	box-sizing: border-box;
+	padding-left: 24px;
 	padding-right: 24px;
 	text-align: center;
 	vertical-align: middle;
@@ -182,14 +185,12 @@ img.profile-pic {
 
 @media screen and (max-width: 600px) {
   img.profile-pic {
-    height: 60%;
     width: 60%;
   }
 }
 
 @media screen and (max-width: 480px) {
   img.profile-pic {
-    height: 80%;
     width: 80%;
   }
 }
